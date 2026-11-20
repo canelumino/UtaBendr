@@ -11,7 +11,4 @@ https://github.com/user-attachments/assets/87923b50-cf21-45b1-8b7b-6af1fa1896b7
 
 
 
-## Credits
-
-UtaBendr is standalone original code. Its UST and VSQX format behavior was checked against the open-source UtaFormatix3 project. No UtaFormatix source file is bundled.
 VOCALOID is a trademark of Yamaha Corporation. UTAU belongs to its respective creator (Ameya). UtaBendr is an independent fan-made utility and is not affiliated with or endorsed by Yamaha or the UTAU project.
